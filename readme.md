@@ -1,0 +1,6 @@
+# Readme
+
+fetch github users's profile image...
+using async function...
+took ages!!!
+_needs improvement_
